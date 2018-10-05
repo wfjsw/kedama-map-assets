@@ -1,0 +1,9 @@
+{
+    "iconUrl": "https://cdn.jsdelivr.net/gh/wfjsw/kedama-map-assets@4d5d33a9c1b55391a6e7e6d2a324de9d0f8b649a/icons/resources.png",
+    "iconSize": [41, 49],
+    "iconAnchor": [20, 49],
+    "popupAnchor": [1, -27],
+    "tooltipAnchor": [20, -27],
+    "shadowUrl": "https://cdn.jsdelivr.net/gh/wfjsw/kedama-map-assets@4d5d33a9c1b55391a6e7e6d2a324de9d0f8b649a/icons/common-shadow-1.png",
+    "shadowSize": [41,49]
+}
