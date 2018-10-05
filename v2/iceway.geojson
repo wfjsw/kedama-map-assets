@@ -1,0 +1,198 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96,
+                        153
+                    ],
+                    [
+                        -96,
+                        324
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -108,
+                        153
+                    ],
+                    [
+                        -108,
+                        332
+                    ],
+                    [
+                        -506,
+                        332
+                    ],
+                    [
+                        -506,
+                        348
+                    ],
+                    [
+                        -539,
+                        348
+                    ],
+                    [
+                        -2260,
+                        348
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -108,
+                        338
+                    ],
+                    [
+                        -108,
+                        2720
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -554,
+                        2781
+                    ],
+                    [
+                        -554,
+                        3398
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -108,
+                        92
+                    ],
+                    [
+                        -108,
+                        28
+                    ],
+                    [
+                        -119,
+                        28
+                    ],
+                    [
+                        -4584,
+                        28
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3140,
+                        28
+                    ],
+                    [
+                        -3140,
+                        -737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85,
+                        92
+                    ],
+                    [
+                        -85,
+                        -896
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -85,
+                        -114
+                    ],
+                    [
+                        448,
+                        -114
+                    ],
+                    [
+                        459,
+                        -114
+                    ],
+                    [
+                        2054,
+                        -114
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        54,
+                        424
+                    ],
+                    [
+                        54,
+                        150
+                    ],
+                    [
+                        -74,
+                        150
+                    ],
+                    [
+                        -74,
+                        -45
+                    ]
+                ]
+            }
+        }
+    ]
+}
