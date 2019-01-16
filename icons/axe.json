@@ -1,9 +1,9 @@
 {
     "iconUrl": "https://cdn.jsdelivr.net/gh/wfjsw/kedama-map-assets@d2d81cecf3c9b9f2ea75dc28643c126db93f185d/icons/axe.svg",
-    "iconSize": [41, 49],
-    "iconAnchor": [20, 49],
-    "popupAnchor": [1, -27],
-    "tooltipAnchor": [20, -27],
+    "iconSize": [36, 42],
+    "iconAnchor": [18, 21],
+    "popupAnchor": [0, -10],
+    "tooltipAnchor": [18, -5],
     "shadowUrl": "https://cdn.jsdelivr.net/gh/wfjsw/kedama-map-assets@d2d81cecf3c9b9f2ea75dc28643c126db93f185d/icons/common-shadow-1.png",
     "shadowSize": [41, 51]
 }
