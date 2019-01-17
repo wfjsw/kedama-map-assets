@@ -2,8 +2,8 @@
     "iconUrl": "https://cdn.jsdelivr.net/gh/wfjsw/kedama-map-assets@d2d81cecf3c9b9f2ea75dc28643c126db93f185d/icons/sword.svg",
     "iconSize": [36, 42],
     "iconAnchor": [18, 42],
-    "popupAnchor": [0, -10],
-    "tooltipAnchor": [18, -5],
+    "popupAnchor": [0, -23],
+    "tooltipAnchor": [18, -23],
     "shadowUrl": "https://cdn.jsdelivr.net/gh/wfjsw/kedama-map-assets@46c9f2e453042a5926badf7ccb76625490d31772/icons/common-shadow-1.png",
     "shadowSize": [41, 51],
     "shadowAnchor": [20, 51]
